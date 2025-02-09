@@ -1,0 +1,103 @@
+
+{
+    "locations": [
+      {
+        "id": 20965428,
+        "name": "DANCING WOLF RESORT RED FOXX",
+        "latitude": "36.90229700",
+        "longitude": "-106.57915000",
+        "address_line_1": "534 TERRACE ST",
+        "address_line_2": null,
+        "city": "CHAMA",
+        "state": "NM",
+        "postal_code": "87520",
+        "country": "UNITED STATES",
+        "full_address": null,
+        "phone": "(575) 756-2963",
+        "website": null,
+        "email": null,
+        "description": null,
+        "image_url": null,
+        "priority": 0,
+        "filters": [
+          {
+            "id": 684,
+            "name": "Lollia",
+            "position": 1
+          },
+          {
+            "id": 685,
+            "name": "TokyoMilk",
+            "position": 2
+          }
+        ],
+        "custom_fields": [
+          
+        ],
+        "distance": 46,
+        "distance_units": "mi"
+      },
+      {
+        "id": 20964591,
+        "name": "PANDORA'S",
+        "latitude": "35.69169904",
+        "longitude": "-105.95016195",
+        "address_line_1": "173 PASEO DE PERALTA",
+        "address_line_2": null,
+        "city": "SANTE FE",
+        "state": "NM",
+        "postal_code": "87501",
+        "country": "UNITED STATES",
+        "full_address": null,
+        "phone": "(505) 982-3298",
+        "website": null,
+        "email": null,
+        "description": null,
+        "image_url": null,
+        "priority": 0,
+        "filters": [
+          {
+            "id": 683,
+            "name": "The Cottage Greenhouse",
+            "position": 7
+          }
+        ],
+        "custom_fields": [
+          
+        ],
+        "distance": 59,
+        "distance_units": "mi"
+      },
+      {
+        "id": 20965189,
+        "name": "ARK, THE",
+        "latitude": "35.68410700",
+        "longitude": "-105.94913800",
+        "address_line_1": "133 ROMERO ST",
+        "address_line_2": null,
+        "city": "SANTA FE",
+        "state": "NM",
+        "postal_code": "87501",
+        "country": "UNITED STATES",
+        "full_address": null,
+        "phone": "(505) 988-3709",
+        "website": null,
+        "email": null,
+        "description": null,
+        "image_url": null,
+        "priority": 0,
+        "filters": [
+          {
+            "id": 18445,
+            "name": "Cards",
+            "position": 3
+          }
+        ],
+        "custom_fields": [
+          
+        ],
+        "distance": 60,
+        "distance_units": "mi"
+      }
+    ]
+  }
